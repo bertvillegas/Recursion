@@ -1,16 +1,16 @@
 # Recursion
 A few small recursive projects
 
-Problem 1
+Problem 1 (Digit Sum)
 Write a recursive function to sum the digits in the given number.
 For example if n is 1234, then 1 + 2 + 3 + 4 = 10, so return 10
 Hint: the % operator (aka, modulus) is useful for extracting a single digit.
 
-Problem 2
+Problem 2 (List Max)
 Given a list of numbers return the max value in the list.
 Your solution should use recursion and return None if lst is empty
 
-Problem 3
+Problem 3 (Staircase Paths)
 You're climbing a staircase with n stairs. With each step you can
 climb either 1 stair or 2 stairs. How many distinct ways can you
 climb to the top of the staircase?
